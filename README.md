@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a Full Stack .NET Developer based in Pakistan 🇵🇰 with a strong foundation in web development and enterprise applications. Currently working at **Fauji Fertilizer Bin Qasim Ltd. (FFBL)** as a Software Engineer, I specialize in building secure and scalable **Blazor Server** apps integrated with modern technologies and databases.
+I'm a Full Stack .NET Developer based in Pakistan 🇵🇰 with a strong foundation in web development and enterprise applications. Currently working at **Fauji Fertilizer Company Ltd. (FFC)** as a Software Engineer, I specialize in building secure and scalable **Blazor Server** apps integrated with modern technologies and databases.
 
 🎓 **Education**: BS Computer Science from COMSATS University Islamabad, Sahiwal Campus.  
 🧠 **Interests**: System design, software architecture, cloud technologies, automation tools.  
